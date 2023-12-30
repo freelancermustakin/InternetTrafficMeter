@@ -47,8 +47,8 @@ ITM (Internet Traffic Meter) is a network speed monitoring floating window softw
 
 
 ## Licence
-    Copyright (C) 2021 @AladaApp
-    Copyright (C) 2021-2024 Freelancer Mustakin
+    Copyright (C) 2022 @AladaApp
+    Copyright (C) 2022-2024 Freelancer Mustakin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
