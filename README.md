@@ -3,6 +3,12 @@ ITM (Internet Traffic Meter) is a network speed monitoring floating window softw
 
 ``আইটিএম (ইন্টারনেট ট্র্যাফিক মিটার) হল উইন্ডোজ প্ল্যাটফর্মের জন্য একটি নেটওয়ার্ক গতি নিরীক্ষণ ফ্লোটিং উইন্ডো সফ্টওয়্যার৷ এটি বর্তমান নেটওয়ার্ক গতি, CPU এবং মেমরি ব্যবহার, টাস্কবার ডিসপ্লেতে এম্বেডিং সমর্থন, স্কিন পরিবর্তন, ঐতিহাসিক ট্র্যাফিক পরিসংখ্যান এবং অন্যান্য ফাংশন প্রদর্শন করতে পারে৷``
 
+**ITM | [English](./README.md)**<br>
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/freelancermustakin/InternetTrafficMeter/main.yml?branch=master&label=Release%20CI&logo=github&style=flat-square)](https://github.com/freelancermustakin/InternetTrafficMeter/actions?query=workflow:"Release+CI")
+[![GitHub release](https://img.shields.io/github/release/freelancermustakin/InternetTrafficMeter.svg?style=flat-square)](https://github.com/freelancermustakin/InternetTrafficMeter/releases/latest)
+
 # Features
 
 * View network details.
