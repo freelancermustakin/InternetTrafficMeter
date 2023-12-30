@@ -1,0 +1,3 @@
+software name: ITM (Internet Traffic Meter)
+file name: itm_v1.22.0
+version: v1.22.0
