@@ -29,6 +29,18 @@ ITM (Internet Traffic Meter) is a network speed monitoring floating window softw
 * হার্ডওয়্যার তথ্য পর্যবেক্ষণ।
 * প্লাগ-ইন সিস্টেম।
 ```
+| Function                          | Paid | Free |
+| ----------------------------- | ------ | ------ |
+| Network details                  | ✔      | ❌      |
+| Internet speed monitoring                      | ✔      | ❌      |
+| Change the skin of the main window                | ✔      | ❌      |
+| Hard disk utilization monitoring                | ✔      | ❌      |
+| CPU, memory utilization          | ✔      | ❌      |
+| CPU, graphics card, hard disk, motherboard temperature monitoring  | ✔      | ❌      |
+| CPU frequency monitoring | ✔ | ❌ |
+| Graphics card utilization monitoring                | ✔      | ❌      |
+| Plug-in system                      | ✔      | ❌      |
+| Requires administrator rights                | ✔     | ❌     |
 
 # 
 ![screenshot](.assets/itm_icon_v1_logo.ico)
