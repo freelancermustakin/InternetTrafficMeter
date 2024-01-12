@@ -9,8 +9,9 @@ ITM (Internet Traffic Meter) is a network speed monitoring floating window softw
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/freelancermustakin/InternetTrafficMeter/main.yml?branch=master&label=Release%20CI&logo=github&style=flat-square)](https://github.com/freelancermustakin/InternetTrafficMeter/actions?query=workflow:"Release+CI")
 [![GitHub release](https://img.shields.io/github/release/freelancermustakin/InternetTrafficMeter.svg?style=flat-square)](https://github.com/freelancermustakin/InternetTrafficMeter/releases/latest)
 
-# Features
+![screenshot](.assets/itm_152723.jpg)
 
+# Features
 * View network details.
 * Support embedding into taskbar display.
 * Supports changing skins and customizing skins.
