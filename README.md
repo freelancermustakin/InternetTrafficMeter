@@ -42,7 +42,9 @@ ITM (Internet Traffic Meter) is a network speed monitoring floating window softw
 | Plug-in system                      | ✔      | ❌      |
 | Requires administrator rights                | ✔     | ❌     |
 
-# 
+# Cost
+![screenshot](.assets/itm_152723.jpg)
+
 ![screenshot](.assets/itm_icon_v1_logo.ico)
 
 
