@@ -43,6 +43,9 @@ ITM (Internet Traffic Meter) is a network speed monitoring floating window softw
 | Plug-in system                      | ✔      | ❌      |
 | Requires administrator rights                | ✔     | ❌     |
 
+# Cost
+> Price `` $8.99 USD ``
+
 # Cost/Screenshoot
 ![screenshot](.assets/itm_icon_v1_logo.ico)
 
