@@ -49,6 +49,12 @@ ITM (Internet Traffic Meter) is a network speed monitoring floating window softw
 # Cost/Screenshoot
 ![screenshot](.assets/itm_icon_v1_logo.ico)
 
+## Contact Us
+Join [Facebook](https://facebook.com/freelancermustakin) <br>
+Join [Telegram](https://t.me/mustakin) <br>
+Join [Telegram Channel](https://t.me/freelancermustakin) <br>
+Join [YouTube](https://m.youtube.com/freelancermustakin) <br>
+
 ## Licence
     Copyright (C) 2023 @AladaApp
     Copyright (C) 2023-2024 Freelancer Mustakin
